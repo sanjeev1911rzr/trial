@@ -1,13 +1,16 @@
-#AMA
-##Abhishek Agarwal
+# AMA
+,,,
+## Abhishek Agarwal
+,,,
 Abhishek Agarwal | KIET 2012 | Samsung | GATE | IIT-Delhi | VISA 
-
+,,,
 Abhishek previously worked on a project involving the RFID based metro card system. He is also a big hindi literature fan and is particularly into Hariwansh Rai Bacchan. He got the college highest placement from Samsung for their Noida office. Frustrated with them, he aced GATE and landed in IIT-D where he worked on a massive data-crawling and knowledge-graph project. He's now with Visa and sometimes comes home for urdu shayari sessions.
-
+,,,
 [LinkedIn](https://www.linkedin.com/in/abhishek-agarwal-35a595101/)
+,,,
 [Transcript]()
-
-##Anusha
+,,,
+## Anusha
 Anusha | NIE Mysore | IBM | IIM Indore | HSBC | JioMoney
 
 She has been on the both sides of programming and management. 
