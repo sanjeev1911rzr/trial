@@ -7,7 +7,7 @@ Abhishek previously worked on a project involving the RFID based metro card syst
 
 [LinkedIn](https://www.linkedin.com/in/abhishek-agarwal-35a595101/)
 
-[Transcript]()
+[Transcript](https://medium.com/@lunaticcritic/a-conversation-you-wished-to-have-628bd02d8406)
 
 ## Anusha
 Anusha | NIE Mysore | IBM | IIM Indore | HSBC | JioMoney
@@ -23,7 +23,7 @@ Detailed background:
 
 [LinkedIn](https://www.linkedin.com/in/anushamahendrakar/)
 
-[Transcript]()
+[Transcript](https://medium.com/@krichasahu/management-and-programming-d42c43704e5f)
 
 ## Abhishek Gupta
 
@@ -40,7 +40,7 @@ His background:
 
 [LinkedIn](https://www.linkedin.com/in/abhishekgupta92/)
 
-[Transcript]
+[Transcript](https://medium.com/c-club/ama-with-co-founder-of-navgurukul-e6be1fbbb8d8)
 
 ## Niti Shree
 Niti Shree | co-founder/COO Offrd | Draper University | Headstart
@@ -54,7 +54,7 @@ Her background:
 
 [LinkedIn](https://www.linkedin.com/in/niti-shree-90557a20/)
 
-[Transcript]
+[Transcript](https://medium.com/@krichasahu/ama-with-niti-80bdf1e980de)
 
 ## Mohammad Najmuzzaman 
 Mohammad Najmuzzaman (Nazz) | ECE 2014 - ITER Bhubaneswar | MBA in Innovation and Intrapreneurship 2016 - SIBM Pune 
@@ -69,7 +69,7 @@ Mohammad Najmuzzaman (Nazz) | ECE 2014 - ITER Bhubaneswar | MBA in Innovation an
 
 [LinkedIn](https://www.linkedin.com/in/najmuzzaman/)
 
-[Transcript]()
+[Transcript](https://medium.com/@krichasahu/ama-12205543a943)
 
 ## Aishwarya Singh
 Aishwarya Singh | 99%ile at CAT | MDI Gurgaon | PepsiCo
@@ -78,4 +78,11 @@ KIET was a big step up surprise to Aishwarya Singh as all the 6 schools she’d 
 
 [LinkedIn]( https://www.linkedin.com/in/aishwarya-singh-1a5124a7/)
 
-[Transcript]()
+[Transcript](https://medium.com/@krichasahu/im-and-always-be-a-small-town-girl-an-ama-with-aishwarya-538c6da1dbd5)
+
+## Anand
+Scored AIR 7 in UPSC 2016 | tennis enthusiast | literature lover
+
+A little insight in his background:
+
+He completed mechanical engineering from DCE in 2013. After that, he worked as a business analyst for a couple of years. Then, quit his job to prepare for civil services full time. And now, he is training at LBSNAA, Mussourie as an IAS probationer. He is an aviate tennis follower. Apart from that, he likes to read and write philosophical and non-fictional work. 
