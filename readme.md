@@ -15,12 +15,17 @@ Anusha | NIE Mysore | IBM | IIM Indore | HSBC | JioMoney
 She has been on the both sides of programming and management. 
 
 Detailed background:
+
 - IBM: did performance and functional QA, worked with databases
+
 - IIM Indore: did an MBA in IT & strategy,
+
 - HSBC: helped the bank deliver changes that involved 1000s of moving parts
+
 -JioMoney: making sure that JioMoney app gets shipped on the 1500 rupee Jio phone.
 
 [LinkedIn](https://www.linkedin.com/in/anushamahendrakar/)
+
 [Transcript]()
 
 ## Abhishek Gupta
@@ -37,6 +42,7 @@ His background:
 - Co-founded NavGurukul to fix higher-education in Bharat for people who can't afford BTech.
 
 [LinkedIn](https://www.linkedin.com/in/abhishekgupta92/)
+
 [Transcript]
 
 ## Niti Shree
@@ -50,6 +56,7 @@ Her background:
 -Offrd: she heads operations here. They helps people to get hired in business roles by solving challenges rather than relying on pedigree.
 
 [LinkedIn](https://www.linkedin.com/in/niti-shree-90557a20/)
+
 [Transcript]
 
 ## Mohammad Najmuzzaman 
@@ -64,6 +71,7 @@ Mohammad Najmuzzaman (Nazz) | ECE 2014 - ITER Bhubaneswar | MBA in Innovation an
 - Rejected Engineering and MBA campus placements
 
 [LinkedIn](https://www.linkedin.com/in/najmuzzaman/)
+
 [Transcript]()
 
 ## Aishwarya Singh
@@ -72,4 +80,5 @@ Aishwarya Singh | 99%ile at CAT | MDI Gurgaon | PepsiCo
 KIET was a big step up surprise to Aishwarya Singh as all the 6 schools she’d been to, were your typical small town schools in Gorakhpur, Varanasi, Gazipur, Baharich and Basti. She says she aces keeping good company and found some really sharp people across years in her time at KIET. She had fun and worked hard to get a 99.3%ile in CAT. She headed MDI Gurgaon’s International relations committee in her MBA and now is an HR manager with PepsiCo. She manages 1000+ people in Sales, North India.
 
 [LinkedIn]( https://www.linkedin.com/in/aishwarya-singh-1a5124a7/)
+
 [Transcript]()
